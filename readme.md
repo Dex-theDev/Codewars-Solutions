@@ -1,0 +1,1 @@
+These are my daily solutions on Codewars. All are in Javascript
