@@ -1,0 +1,1 @@
+const sum = numbers => numbers.reduce((p,c) => p + c,0)
